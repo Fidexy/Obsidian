@@ -1,15 +1,15 @@
 # Part A (20 marks)
 **MC questions - 20 to 40 questions**
-Freedoms of the air
-Flight number/airport number
-Hub-and-spoke / point-to-point system
-Facts about HK AOCS
-Third runway alignment and runway separation distance
-Runway marking
-The Committee on Aviation Environmental Protection (CAEP)
-VSM and RVSM
-Advantages of ATOP
-International organisations/unions
+- Freedoms of the air
+- Flight number/airport number
+- Hub-and-spoke / point-to-point system
+- Facts about HK AOCS
+- Third runway alignment and runway separation distance
+- Runway marking
+- The Committee on Aviation Environmental Protection (CAEP)
+- VSM and RVSM
+- Advantages of ATOP
+- International organisations/unions
 
 # Part B (80 marks)
 ## Q1. The freedoms of the air & SMS (16 marks)
