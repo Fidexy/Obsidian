@@ -197,4 +197,20 @@ Ensures safe, convenient and efficient movement of aircraft between airports
 **Airway communication**
 - Conveys airway and weather information to pilots
 **General traffic control**
-- 
+- Controls non-flying and non-aircraft movement
+**ATM**
+- Provides live information critical to flight safety and efficiency
+- Arranges traffic flows to avoid congestion and reduce controller overload
+### Procedures
+**Identification**
+- By use of a transponder
+- By comparing reported position
+- By observing response of aircraft on a requested manoeuvre
+- By transferring identification from other ATC
+**Radar Vectoring**
+Guide aircraft by a specific heading under Air Traffic Surveillance for smooth and expeditious flow of traffic
+**Speed control**
+To achieve desired separation
+### HK ATC
+- Controls the HK FIR
+- Provides air navigation services
