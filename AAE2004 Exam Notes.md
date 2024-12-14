@@ -297,3 +297,12 @@ To achieve desired separation
 	- Improve flight schedule compliance, passenger comfort, and reduce pilot and controller workload.
 - Dynamic Routes for Arrivals in Weather
 	- Dynamically reroutes impact flights and balances arrival demand
+
+## Sustainable Aviation
+**Chemicals emitted:**
+- Nitrogen Oxides (NOx)
+- Carbon Monoxide (CO)
+- Unburnt hydrocarbons (CH4 and VOCs)
+- Sulphur Dioxide (SO2)
+- Fine Particulate Matter (PM10 and PM2.5)
+### Contrails

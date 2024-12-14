@@ -63,3 +63,27 @@
 - Emission types and its social impact (4 marks)
 - SAFS (4 marks, for two points)
 - Science of contrail formation and mitigation strategies (6 marks)
+# Supplementary Information
+| **Element 1** | Aeroplane reference field length |
+| ------------- | -------------------------------- |
+| 1             | < 800 m                          |
+| 2             | 800 m but < 1200 m               |
+| 3             | 1200 m but < 1800 m              |
+| 4             | 1800 m and above                 |
+| **Element 2** | Wingspan                         |
+| A             | < 15 m                           |
+| B             | 15 m but < 24 m                  |
+| C             | 24 m but < 36 m                  |
+| D             | 36 m but < 52 m                  |
+| E             | 52 m but < 65 m                  |
+| F             | 65 m but < 80 m                  |
+
+| Class | [Controlled](https://en.wikipedia.org/wiki/Controlled_airspace "Controlled airspace") | [IFR](https://en.wikipedia.org/wiki/Instrument_flight_rules "Instrument flight rules") | [SVFR](https://en.wikipedia.org/wiki/Special_visual_flight_rules "Special visual flight rules") | [VFR](https://en.wikipedia.org/wiki/Visual_flight_rules "Visual flight rules") | ATC clearance             | Separation                                             | Traffic information                                 |
+| ----- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
+| A     | Controlled                                                                            | Yes                                                                                    | No                                                                                              | No                                                                             | Required                  | Provided for all flights                               | N/A                                                 |
+| B     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for all flights                               | N/A                                                 |
+| C     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for all IFR/SVFR to IFR/SVFR/VFR              | Provided for all VFR                                |
+| D     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for IFR/SVFR to other IFR/SVFR                | Provided for all IFR and VFR                        |
+| E     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required for IFR and SVFR | Provided for IFR/SVFR to other IFR/SVFR                | Provided for all IFR and VFR flights where possible |
+| F     | Uncontrolled                                                                          | Yes                                                                                    | No                                                                                              | Yes                                                                            | Advisory only             | Provided for IFR/SVFR to other IFR/SVFR where possible | Provided where possible if requested                |
+| G     | Uncontrolled                                                                          | Yes                                                                                    | No                                                                                              | Yes                                                                            | Not provided              | Not provided                                           | Provided where possible if requested                |
