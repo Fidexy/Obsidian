@@ -1,19 +1,171 @@
-## **Key Performance Indicators in Air Transport**  
+## Key Performance Indicators in Air Transport  
 1. **Passenger Kilometre (PKM)**:  
    - Measures passenger volume (Total Passengers × Distance).  
    - Example: A flight with 130 passengers over 4767 km generates 619,710 PKM.  
-
 2. **Revenue Passenger Kilometre (RPK)**:  
    - Measures sales volume of paying passengers (Revenue Passengers × Distance).  
-
 3. **Tonne Kilometre (TKM)**:  
    - Volume of freight carried (Freight in tonnes × Distance).  
-
 4. **Available Seat Kilometre (ASK)**:  
    - Passenger capacity (Seats available × Distance).  
-
 5. **Passenger Load Factor (PLF)**:  
    - Efficiency metric: **PLF = PKM / ASK**.  
-
 6. **Yield**:  
    - Revenue per kilometre (Passenger Yield = Revenue / RPK; Cargo Yield = Revenue / TKM).  
+## Air operator certificate (AOC)
+A certificate authorising an operator to carry out specified commercial air transport operations
+
+The AOC shall contain at least the following: 
+- Operator's identification (name, location) 
+- Date of issue and period of validity 
+- Description of the types of operations authorised 
+- The type(s) of aircraft authorised for use 
+- Authorised areas of operation or routes
+
+**AOC Application process**
+1. Pre-application 
+2. Formal application 
+3. Document evaluation in both administrative and technical areas 
+4. Operational inspections 
+5. Decision on application and award of AOC and operations specifications (ops spec)
+## Flight Rules
+Detailed in ICAO Annex 2 Chapter 5
+
+| Category                       | Ceiling     | Visibility  |
+| :----------------------------- | :---------- | :---------- |
+| Visual Flight Rules            | &gt;3000ft  | &gt;5 miles |
+| Visual Flight Rules (marginal) | 1000-3000ft | 3-5 miles   |
+| Instrument Flight Rules        | 500-1000ft  | 1-3 miles   |
+| Low Instrument Flight Rules    | &lt;500ft   | &lt;1 mile  |
+**Vertical separation minima**
+- Minimum vertical distance required to safely separate aircraft flying at different altitudes
+- Large separations to account for barometric errors at high altitudes
+- Accurate altitude determination by satellite global positioning systems makes it possible to reduce the VSM for properly equipped airplanes
+- R (reduced) VSM increases the number of aircraft that can fly in an airspace
+- Aircraft must be **RVSM-certified** to operate in RVSM airspace.
+- Certification ensures that the aircraft's altimeters, autopilot, and altitude-keeping systems meet the required precision standards.
+## Air sovereignty
+- Air sovereignty is the fundamental right of a sovereign state to regulate the use of its airspace, protect its territory and enforce its own aviation law - in extreme circumstance by the use of military fighter aircraft.
+- Airspace above the land and sea areas of a state generally forms part of the sovereign state area
+## Freedoms of the air
+1. The right to fly over a foreign country without landing
+2. The right to refuel or carry out maintenance in a foreign country without embarking or disembarking passengers or cargo
+3. The right to fly from one's own country to another country
+4. The right to fly from another country to one's own
+5. The right to fly between two foreign countries on a flight originating or ending in one's own country
+6. The right to fly from a foreign country to another while stopping in one's own country for non-technical reasons
+7. The right to fly between two foreign countries, while not offering flights to one’s own country
+8. The right to fly inside a foreign country, continuing to one's own country
+9. The right to fly inside a foreign country without continuing to one's own country
+## Route Systems
+**Point to Point**
+- Eliminate need for connections
+- Reduce travel time
+- Reduce risk of lost baggage
+- Independent
+- Worst best between major population centres
+- Highly inefficient when flights are mostly half empty
+**Hub and Spoke**
+- A hub is a central airport that flights are routed through
+- Spokes are the routes that planes take out of the hub airport
+- Requires significantly fewer routes to connect all destinations when compared with the point-point system
+- Small number of routes lead to more efficient use of transportation resources (more full flights)
+- Complicated operations, such as package sorting and accounting, can be carried out at the hub, rather than at every node
+- May cause congestion at large hubs
+- Need for connections may cause delays or baggage lost
+- Longer travel time
+
+$$C=H(A-1)-\frac{1}{2}H(H-1)$$
+Given that:
+C = Number of connections
+H = Number of hubs
+A = Number of airports serviced
+
+For a point to point system (H=A):
+$$C=\frac{1}{2}A(A-1)$$
+For a single hub and spoke system (H=1):
+$$C=(A-1)$$
+## Civil Aviation Authorities
+- To oversee, regulate and ensure the required standards are met within their territory
+	 - Personnel licensing 
+		 provide regulation of the basic training and issuance of licenses and certificates
+	- Flight operations
+		carry out safety oversight of commercial operators
+	- Airworthiness
+		issue certificates of registration; certificate airworthiness to civil aircraft oversee the safety of aircraft maintenance organisations.
+### ICAO
+- Oversees and facilitates the standardisation, harmonisation and cooperation of civil aviation of signatory states and national aviation authority
+- **Is not** an enforcement authority
+- Countries pledge to adhere to ICAO standards and establish CAA regulations according to ICAO annexes
+**Main Missions**
+- Promote safe, efficient and orderly development of international civil aviation.
+- Set international standards necessary for the safety, security and efficiency of air transport.
+- Increasing of efficiency of international civil aviation.
+- Serve as the coordinator for international cooperation in all area of civil aviation.
+#### Structure
+**General Assembly**
+- Sovereign body of ICAO
+- Meets every 3 years to review work and set future policies
+**Council**
+- Governing body
+- Composes of 36 states
+**Secretariat**
+Divided into:
+	- Bureau of Admin and Services
+	- Air Navigation Bureau
+		 Safety and infrastructure
+	- Air Transport Bureau
+		Security and facilitation
+		Economic development of air transport
+		Environmental protection
+	- Technical Co-operation Bureau
+		Expert consultant on airworthiness, flight operation , licensing and more
+		Procurement of equipment and services
+		Training services
+	- Legal Bureau
+#### Contributions
+- International Standard Atmosphere
+- Standardized machine-readable passports
+- Air navigation infrastructures
+	- Communication, Navigation, Surveillance
+	- Air Traffic Management
+- Air disaster investigation
+- Assigning standard airport (4 letter) and airline (3 letter) codes
+- Maintain standards for aircraft registration
+	Identify country and aircraft model
+#### Annexes
+1. Personnel Licensing, Licensing of flight crews, air traffic controllers & aircraft maintenance personnel
+2. Rules of the Air
+3. Meteorological Service for International Air Navigation
+4. Aeronautical Charts
+5. Units of Measurement to be used in Air and Ground Operations
+6. Operation of Aircraft
+7. Aircraft Nationality and Registration Marks
+8. Airworthiness of Aircraft
+9. Facilitation
+10. Aeronautical Telecommunications
+11. Air Traffic Services – Air Traffic Control Service, Flight Information
+12. Search and Rescue
+13. Aircraft Accident and Incident Investigation
+14. Aerodromes
+15. Aeronautical Information Services
+16. Environmental Protection
+17. Security
+18. Safe Transport of Dangerous Goods by Air
+19. Safety Management
+### IATA
+A trade association promoting cooperation among airlines
+#### Safety
+- IATA put in place the IATA Operational Safety Audit, a global standard for airline safety audits
+- Passing the IOSA is required to retain IATA membership
+- **Safety =/= Airworthiness**
+#### Security
+IATA works together with ICAO to harmonise security measures
+#### Health and Safety
+IATA works closely with World Health Organization (WHO), the global authority on public health, on a range of issues including communicable diseases to help the aviation industry
+#### Environment
+#### Simplifying the business
+#### IATA code
+- Airports are designated with a three-letter code
+- Airlines are designated with a two-letter code
+- The airline designator forms the first 2 characters of the flight number
