@@ -305,9 +305,32 @@ To achieve desired separation
 - Unburnt hydrocarbons (CH4 and VOCs)
 - Sulphur Dioxide (SO2)
 - Fine Particulate Matter (PM10 and PM2.5)
-### Contrails
-### Formation
+**Other negative impacts on the environment:**
+- Water pollution
+- Hazardous materials
+- Noise pollution
+- Migratory routes affected
+### ICAO Environmental Protection Plan
+**Committee on Aviation Environmental Protection (CAEP)**
+- Assists the Council in formulating new policies and adopting new SARPs
+- WG1- Noise
+- WG2- Operations
+- WG3- Emissions
+- WG4 Corsia
+
+### Contrail Formation
 1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
 2. The hot exhaust mixes with cold ambient air, causing rapid cooling and condensation
 3. Water droplets freeze into ice crystals, forming visible contrails behind the aircraft
 4. Depending on atmospheric conditions, contrails may persist and spread or quickly dissipate
+### Contrail Mitigation
+- Avoiding contrail formation through flight path adjustments
+	- Tradeoff: higher fuel consumption, additional CO2 emissions
+	- Short-term benefits of reduced contrail impact and long-term consequences of higher CO2 emissions have to be balanced
+- Sustainable Aviation Fuels
+	- Lower aromatic content could reduce soot and thus ice crystal formation
+	- Higher cost compared to jet fuel
+- Hydrogen-powered aircraft
+	- Less water vapor emission
+	- Additional benefit: no CO2 emission
+	- Limits: Low energy density, high cost, new engines needed

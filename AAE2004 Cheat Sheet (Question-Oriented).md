@@ -62,6 +62,12 @@
 - Emission types and its social impact (4 marks)
 - SAFS (4 marks, for two points)
 - Science of contrail formation and mitigation strategies (6 marks)
+	1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
+	2. The hot exhaust mixes with cold ambient air, causing rapid cooling and condensation
+	3. Water droplets freeze into ice crystals, forming visible contrails behind the aircraft
+	4. Depending on atmospheric conditions, contrails may persist and spread or quickly dissipate
+	**Mitigation**
+	
 # Supplementary Information
 | **Element 1** | Aeroplane reference field length |
 | ------------- | -------------------------------- |
