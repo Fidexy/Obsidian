@@ -286,4 +286,14 @@ To achieve desired separation
 **ATD-3**
 - Manages traffic safely and efficiently during adverse weather
 - Air/Ground Integration
-	- 
+	- Reduce delays by proposing more efficient reroutes through the airspace
+	- Account for dynamic weather, traffic, and other airspace constraints.
+- Multi-Flight Common Route
+	- Generate dynamic time/fuel saving routes
+- Traffic Aware Strategic Aircrew Requests
+	- Search for more efficient routes using data available onboard the aircraft
+	- Leverage flight management system and onboard weather radar, wind, and traffic data to identify wind
+	- optimized routes and altitudes that save time and fuel
+	- Improve flight schedule compliance, passenger comfort, and reduce pilot and controller workload.
+- Dynamic Routes for Arrivals in Weather
+	- Dynamically reroutes impact flights and balances arrival demand

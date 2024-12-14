@@ -16,6 +16,18 @@
 8. The right to fly inside a foreign country, continuing to one's own country
 9. The right to fly inside a foreign country without continuing to one's own country
 ## Q2. Radar and ADS-B (8 marks)
+[[Radar and ADS-B]]
+
+| Feature                | Radar                                 | ADS-B                                |
+| ---------------------- | ------------------------------------- | ------------------------------------ |
+| **Technology**         | Uses radio waves to detect aircraft.  | Uses GPS for precise tracking.       |
+| **Data Provided**      | Position, altitude (SSR), speed.      | Position, altitude, velocity, ID.    |
+| **Range**              | Limited by line-of-sight and terrain. | Global (with satellite ADS-B).       |
+| **Accuracy**           | Moderate to high (SSR).               | High (GPS-based).                    |
+| **Infrastructure**     | Expensive radar stations required.    | Ground stations or satellites.       |
+| **Aircraft Equipment** | Transponder required for SSR.         | ADS-B Out/In avionics required.      |
+| **Cost**               | High installation and maintenance.    | Lower infrastructure costs overall.  |
+| **Coverage**           | Limited in remote or oceanic areas.   | Excellent in remote/oceanic regions. |
 
 ## Q3. Unit of transportation (6 marks)
 1. **Passenger Kilometre (PKM)**:  
@@ -44,10 +56,6 @@
 - ATCS and ICAO airspace classification (4 marks)
 - ADS-B in/out (3 marks)
 - ATD technology and A-CDM (3 marks for one point, short paragraph)
-
-**Suggestions:**
-- Read the lecture notes carefully.
-- Require self-study.
 
 ## Q6. Climate changes and green aviation (16 marks) 
 **Lvl 5 difficulty**

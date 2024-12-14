@@ -68,16 +68,16 @@ ADS-B is a surveillance technology in which aircraft broadcast their position, v
 
 #### **Comparison of Radar and ADS-B**
 
-| Feature                  | Radar                                  | ADS-B                                |
-|--------------------------|----------------------------------------|--------------------------------------|
-| **Technology**           | Uses radio waves to detect aircraft.   | Uses GPS for precise tracking.       |
-| **Data Provided**        | Position, altitude (SSR), speed.       | Position, altitude, velocity, ID.    |
-| **Range**                | Limited by line-of-sight and terrain.  | Global (with satellite ADS-B).       |
-| **Accuracy**             | Moderate to high (SSR).                | High (GPS-based).                    |
-| **Infrastructure**       | Expensive radar stations required.     | Ground stations or satellites.       |
-| **Aircraft Equipment**   | Transponder required for SSR.          | ADS-B Out/In avionics required.      |
-| **Cost**                 | High installation and maintenance.     | Lower infrastructure costs overall.  |
-| **Coverage**             | Limited in remote or oceanic areas.    | Excellent in remote/oceanic regions. |
+| Feature                | Radar                                 | ADS-B                                |
+| ---------------------- | ------------------------------------- | ------------------------------------ |
+| **Technology**         | Uses radio waves to detect aircraft.  | Uses GPS for precise tracking.       |
+| **Data Provided**      | Position, altitude (SSR), speed.      | Position, altitude, velocity, ID.    |
+| **Range**              | Limited by line-of-sight and terrain. | Global (with satellite ADS-B).       |
+| **Accuracy**           | Moderate to high (SSR).               | High (GPS-based).                    |
+| **Infrastructure**     | Expensive radar stations required.    | Ground stations or satellites.       |
+| **Aircraft Equipment** | Transponder required for SSR.         | ADS-B Out/In avionics required.      |
+| **Cost**               | High installation and maintenance.    | Lower infrastructure costs overall.  |
+| **Coverage**           | Limited in remote or oceanic areas.   | Excellent in remote/oceanic regions. |
 
 ---
 
