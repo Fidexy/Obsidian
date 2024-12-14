@@ -4,8 +4,7 @@
 - SMS considerations in single pilot flying in dual pilot cockpit (4 marks for 2 points)
 - SPO (2 marks for 1 point)
 - Choice of alternative airports under emergency.
-- Why do we need to conduct aircraft investigation and its implications to future aviation
-- safety?
+- Why do we need to conduct aircraft investigation and its implications to future aviation safety?
 1. The right to fly over a foreign country without landing
 2. The right to refuel or carry out maintenance in a foreign country without embarking or disembarking passengers or cargo
 3. The right to fly from one's own country to another country

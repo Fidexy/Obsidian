@@ -306,3 +306,8 @@ To achieve desired separation
 - Sulphur Dioxide (SO2)
 - Fine Particulate Matter (PM10 and PM2.5)
 ### Contrails
+### Formation
+1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
+2. The hot exhaust mixes with cold ambient air, causing rapid cooling and condensation
+3. Water droplets freeze into ice crystals, forming visible contrails behind the aircraft
+4. Depending on atmospheric conditions, contrails may persist and spread or quickly dissipate
