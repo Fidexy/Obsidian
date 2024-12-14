@@ -75,15 +75,24 @@ Detailed in ICAO Annex 2 Chapter 5
 - Need for connections may cause delays or baggage lost
 - Longer travel time
 
+
 $$C=H(A-1)-\frac{1}{2}H(H-1)$$
+
 Given that:
+
 C = Number of connections
+
 H = Number of hubs
+
 A = Number of airports serviced
 
+
 For a point to point system (H=A):
+
 $$C=\frac{1}{2}A(A-1)$$
+
 For a single hub and spoke system (H=1):
+
 $$C=(A-1)$$
 ## Civil Aviation Authorities
 - To oversee, regulate and ensure the required standards are met within their territory
