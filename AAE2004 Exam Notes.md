@@ -190,6 +190,18 @@ IATA works closely with World Health Organization (WHO), the global authority on
 	- Security
 ## ATC
 Ensures safe, convenient and efficient movement of aircraft between airports
+ICAO airspace classifications:
+
+| Class | [Controlled](https://en.wikipedia.org/wiki/Controlled_airspace "Controlled airspace") | [IFR](https://en.wikipedia.org/wiki/Instrument_flight_rules "Instrument flight rules") | [SVFR](https://en.wikipedia.org/wiki/Special_visual_flight_rules "Special visual flight rules") | [VFR](https://en.wikipedia.org/wiki/Visual_flight_rules "Visual flight rules") | ATC clearance             | Separation                                             | Traffic information                                 |
+| ----- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
+| A     | Controlled                                                                            | Yes                                                                                    | No                                                                                              | No                                                                             | Required                  | Provided for all flights                               | N/A                                                 |
+| B     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for all flights                               | N/A                                                 |
+| C     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for all IFR/SVFR to IFR/SVFR/VFR              | Provided for all VFR                                |
+| D     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required                  | Provided for IFR/SVFR to other IFR/SVFR                | Provided for all IFR and VFR                        |
+| E     | Controlled                                                                            | Yes                                                                                    | Yes                                                                                             | Yes                                                                            | Required for IFR and SVFR | Provided for IFR/SVFR to other IFR/SVFR                | Provided for all IFR and VFR flights where possible |
+| F     | Uncontrolled                                                                          | Yes                                                                                    | No                                                                                              | Yes                                                                            | Advisory only             | Provided for IFR/SVFR to other IFR/SVFR where possible | Provided where possible if requested                |
+| G     | Uncontrolled                                                                          | Yes                                                                                    | No                                                                                              | Yes                                                                            | Not provided              | Not provided                                           | Provided where possible if requested                |
+
 **Airport traffic control**
 - Guides aircraft to land/take off
 - Controls taxiing between apron and runway
@@ -211,6 +223,67 @@ Ensures safe, convenient and efficient movement of aircraft between airports
 Guide aircraft by a specific heading under Air Traffic Surveillance for smooth and expeditious flow of traffic
 **Speed control**
 To achieve desired separation
-### HK ATC
-- Controls the HK FIR
-- Provides air navigation services
+## NextGen
+**Features**
+1. Satellite-Based Navigation
+2. Controller pilot data link communications
+	- Uses digital messages to supplement voice communications
+	- Data comm messages are only received by the intended aircraft
+	- Saves time and reduces misunderstandings
+	- Preserves radio bandwidth 
+3. Performance-Based Navigation (PBN)
+	- Creates precise 3D paths with satellite technology
+	- Dynamic routes can be provided to avoid weather and find efficient routes
+	- RNAV STAR Continuous Descent Approach to reduce noise and save fuel (eliminate level-offs)
+	- NAVAIDs provide pilotage information and assist with landings
+4. Surveillance
+	- Automatic Dependent Surveillance-Broadcast (ADS-B) continuously broadcasts flight data
+	- More frequent updates compared to ground-based radar (1s compared to 5-12s)
+	- Always on, no operator intervention required
+	- Real-time display of air traffic improves situational awareness
+	- Location, airspeed, altitude and velocity is acquired via GPS and broadcasted to ground stations
+	- ATC relays the data to other aircraft
+	- With ADS-B In, aircraft can receive direct communication with another aircraft, and acquire information on weather and traffic
+5. Automation
+	- Traffic Flow Management System
+		- Can view all traffic data
+		- Regulates air traffic flow
+		- Provides arrival management
+		- Maximises airport efficiency
+	- Advanced Technologies and Oceanic Procedures
+		- An advanced mixed mode air traffic control system to replace existing oceanic air traffic control systems
+		- Can increase capacity and improve efficiency
+		- Improve automatic navigation services
+		- Increased routing flexibility and radar coverage
+6. Information System
+	- System Wide Information Management
+		- Allows ATM-related information sharing
+	- NextGen Weather Processor
+		- Combines data from various sources to identify safety hazards to reduce weather-related air traffic delays
+**Justification**
+- Delays and congestion are costly
+- Number of flights is expected to increase in the future
+**Goals**
+- Increase safety, efficiency, capacity, access, flexibility, predictability
+**Benefits**
+- ATC has better information to track aircraft efficiently
+- Pilots get access to more aeronautical, traffic and weather information
+- Shorter, more direct flights
+- Less fuel consumption, lower emissions
+### Airspace Technology Demonstration
+**ATD-1**
+- Time-Based Flow Management
+- Controller Managed Spacing
+- Flight Deck Interval Management
+**ATD-2**
+-  Integrated Arrival/Departure/Surface technology
+	- Current-day inefficient departure sequences causes taxi inefficacy
+	- Increases predictability, efficiency and throughput
+	- Shares data among various parties
+- Time-Based Flow Management
+- Traffic Flow Management System
+- Terminal Flight Data Manager
+**ATD-3**
+- Manages traffic safely and efficiently during adverse weather
+- Air/Ground Integration
+	- 

@@ -30,7 +30,8 @@
 **Lvl 4 difficulty**
 - Understanding the functions and operational limits of radar systems and ADS-B
 - Short essay type (two points in paragraph form)
-- Suggestions:
+
+**Suggestions:**
 - Suggest working on this question once you completed the other questions.
 - Heavy rely on self-reading about the contents.
 - Lecture note provides the basic information only.
