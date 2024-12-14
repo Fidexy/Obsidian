@@ -7,11 +7,11 @@ The key businesses in air transport operations are the infrastructures, such as 
 ### Operation Overview  
 
 **Key Components:**  
-1. **International regulatory body**  
-2. **National aviation authority**  
-3. **Infrastructure**  
-4. **Vehicles**  
-5. **International association**  
+1. International regulatory body  
+2. National aviation authority  
+3. Infrastructure  
+4. Vehicles  
+5. International association  
 
 ---
 
