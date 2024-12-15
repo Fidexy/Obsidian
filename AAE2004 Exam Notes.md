@@ -102,10 +102,18 @@ $$C=(A-1)$$
 		carry out safety oversight of commercial operators
 	- Airworthiness
 		issue certificates of registration; certificate airworthiness to civil aircraft oversee the safety of aircraft maintenance organisations.
+	- Aerodromes
+		Provide regulation of basic training of licenses and certificates
+	- Air traffic services
+		Manage traffic within the country's airspace
+	- Certification
+		ensure the design complies with the required standards; satisfy the quality assurance test; and issue different types of certificates to civil aviation equipment
 ### ICAO
 - Oversees and facilitates the standardisation, harmonisation and cooperation of civil aviation of signatory states and national aviation authority
 - **Is not** an enforcement authority
 - Countries pledge to adhere to ICAO standards and establish CAA regulations according to ICAO annexes
+- Develops Standards and Recommended Practices (SARPs)
+- SARPs are used y states to develop national civil aviation regulations
 **Main Missions**
 - Promote safe, efficient and orderly development of international civil aviation.
 - Set international standards necessary for the safety, security and efficiency of air transport.
@@ -298,6 +306,21 @@ To achieve desired separation
 - Dynamic Routes for Arrivals in Weather
 	- Dynamically reroutes impact flights and balances arrival demand
 
+## HKIA Third Runway
+### Option A (infeasible)
+- Construct a near-perpendicular runway to existing runways
+- Third runway can only be used for departures to the North
+	Huge imbalance in departure and arrival capacity 
+- The third runway in Runway 25 can be used in certain wind conditions only
+### Option B (impractical)
+- Construct a third runway aligned at an angle to the existing runways
+- Conflict with air traffic procedures between the third runway and the existing runways in the Runway 25 direction
+- Dependent operations create little or no additional capacity increase
+- The lack of usability of the third runway in Runway 25 direction makes this option impractical
+### Option C (most viable)
+- Parallel alignment of the third runway with adequate separation
+- Allows for fully independent parallel operations
+- As per ICAO guidelines, a runway separation of at least 1,525m will allow independent parallel approaches in variable meteorological conditions
 ## Sustainable Aviation
 **Chemicals emitted:**
 - Nitrogen Oxides (NOx)
@@ -316,7 +339,12 @@ To achieve desired separation
 - WG1- Noise
 - WG2- Operations
 - WG3- Emissions
-- WG4 Corsia
+- WG4 CORSIA
+	- Carbon Offsetting and Reduction Scheme for International Aviation
+	- Work:
+		- Maintenance of related SARPs
+		- CO2 Estimating and Reporting Tool
+		- Develop recommendations related to emission management
 
 ### Contrail Formation
 1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
