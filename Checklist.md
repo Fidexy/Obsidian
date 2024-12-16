@@ -1,6 +1,6 @@
 # Part A
 - [x] Freedoms of the air ✅ 2024-12-16
-- [ ] Flight number/airport number
+- [x] Flight number/airport number ✅ 2024-12-17
 - [x] Hub- and-spoke / point-to-point system ✅ 2024-12-16
 - [ ] Facts about HK AOCS
 - [x] Third runway alignment and runway separation distance ✅ 2024-12-16

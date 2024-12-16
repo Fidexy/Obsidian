@@ -66,6 +66,10 @@ The AOC shall contain at least the following:
 **Runway Designator**
 - Number part: magnetic heading rounded to the nearest 10
 - Letter part (parallel runways only): L (left), R (right) or C (Center)
+## Flight Number
+- Not to be confused with the tail number of the aircraft
+- Represents a scheduled flight route
+- Made of a combination of the carrier's 2-letter IATA code and up to 4 letters
 ## Flight Rules
 Detailed in ICAO Annex 2 Chapter 5
 
