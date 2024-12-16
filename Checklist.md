@@ -33,7 +33,7 @@ Calculation of unit of transportation.
 - [x] ADS- B in/out (3 marks) ✅ 2024-12-16
 - [x] ATD technology and A-CDM (3 marks for one point, short paragraph) ✅ 2024-12-16
 ## Q6. Climate changes and green aviation
-- [ ] Carbon emissions in transportation sector (2 marks)
-- [ ] Emission types and its social impact (4 marks)
+- [x] Carbon emissions in transportation sector (2 marks) ✅ 2024-12-16
+- [x] Emission types and its social impact (4 marks) ✅ 2024-12-16
 - [ ] SAFS (4 marks, for two points)
-- [ ] Science of contrail formation and mitigation strategies (6 marks)
+- [x] Science of contrail formation and mitigation strategies (6 marks) ✅ 2024-12-16
