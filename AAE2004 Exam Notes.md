@@ -307,6 +307,18 @@ To achieve desired separation
 	- Dynamically reroutes impact flights and balances arrival demand
 
 ## HKIA Third Runway
+Runways were classified into 3 groups in terms of:
+- Operational safety
+- Obstacle clearance
+- Airspace constraint issues
+- ATC procedures
+- Optimum mode of operations
+Non-parallel new runway options were eliminated due to the following:
+- Terrain constraints on Lantau Island South of the airport restrict the use of the non- parallel runway aircraft either departing to or arriving from the North
+- Conflicts with air traffic procedures for the existing runways
+- Clashes with traffic flying into and out of Macau and Shenzhen Airports
+- The difficulty of landing safely on a non-parallel runway without imposing very restrictive operating dependencies on the existing runways
+- Negligible gains in capacity offered by a non-parallel alignment.
 ### Option A (infeasible)
 - Construct a near-perpendicular runway to existing runways
 - Third runway can only be used for departures to the North
@@ -321,6 +333,15 @@ To achieve desired separation
 - Parallel alignment of the third runway with adequate separation
 - Allows for fully independent parallel operations
 - As per ICAO guidelines, a runway separation of at least 1,525m will allow independent parallel approaches in variable meteorological conditions
+- Stagger of 1140m required to avoid an unacceptable climb gradient for missed approach and departure 
+### Runway Separation
+| Mode of operation        | Minimum Separation  | Maximum Capacity (hourly) |
+| :----------------------- | :------------------ | :------------------------ |
+| Arrivals only            | 3NM                 | 33                        |
+| Departures only          | 90 seconds          | 35                        |
+| Constrained Mixed Mode   | 8NM arrival spacing | 34                        |
+| Unconstrained Mixed Mode | 6NM                 | 44                        |
+
 ## Sustainable Aviation
 **Chemicals emitted:**
 - Nitrogen Oxides (NOx)
@@ -362,3 +383,20 @@ To achieve desired separation
 	- Less water vapor emission
 	- Additional benefit: no CO2 emission
 	- Limits: Low energy density, high cost, new engines needed
+### Impacts of high-speed ferries on CWDs
+## Safety Management System
+**Key Processes**
+- Hazard identification
+- Occurrence reporting
+- Risk management
+- Performance measurement
+- Quality assurance
+**ICAO SMS Framework**
+- Policy and objectives
+	Focusing on how each service provider creates the right environment for effective safety management
+- Risk management
+	Service providers should ensure that they are managing their safety risks
+- Safety assurance
+	Consists of processes and activities to determine whether the SMS is operating
+- Safety promotion
+	Encourages a positive safety culture
