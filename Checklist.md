@@ -4,7 +4,7 @@
 - [x] Hub- and-spoke / point-to-point system ✅ 2024-12-16
 - [ ] Facts about HK AOCS
 - [x] Third runway alignment and runway separation distance ✅ 2024-12-16
-- [ ] Runway marking
+- [x] Runway marking ✅ 2024-12-17
 - [x] The Committee on Aviation Environmental Protection (CAEP) ✅ 2024-12-16
 - [x] VSM and RVSM ✅ 2024-12-16
 - [x] Advantages of ATOP ✅ 2024-12-17

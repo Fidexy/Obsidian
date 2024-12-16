@@ -64,6 +64,8 @@ The AOC shall contain at least the following:
 - Pilots follow recommended procedures.  
 
 **Runway Designator**
+- Number part: magnetic heading rounded to the nearest 10
+- Letter part (parallel runways only): L (left), R (right) or C (Center)
 ## Flight Rules
 Detailed in ICAO Annex 2 Chapter 5
 
