@@ -38,6 +38,15 @@ The AOC shall contain at least the following:
 3. Document evaluation in both administrative and technical areas 
 4. Operational inspections 
 5. Decision on application and award of AOC and operations specifications (ops spec)
+## Aircraft Maintenance
+- An aircraft shall not fly unless it has been maintained in accordance with an approved maintenance program.
+- Related documents:
+	- HKAR-1 Sub-section 1.6
+	- CAD 452 – Approval of Aircraft Maintenance Schedules
+	- CAD 418 – Condition Monitored Maintenance: An explanatory handbook
+- Key elements of a maintenance program:
+	- Maintenance Schedule
+	- Reliability program
 ## Flight Rules
 Detailed in ICAO Annex 2 Chapter 5
 

@@ -7,7 +7,7 @@
 - [ ] Runway marking
 - [x] The Committee on Aviation Environmental Protection (CAEP) ✅ 2024-12-16
 - [x] VSM and RVSM ✅ 2024-12-16
-- [ ] Advantages of ATOP
+- [x] Advantages of ATOP ✅ 2024-12-17
 - [x] International organisations/unions ✅ 2024-12-16
 
 # Part B
