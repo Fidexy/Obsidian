@@ -47,6 +47,23 @@ The AOC shall contain at least the following:
 - Key elements of a maintenance program:
 	- Maintenance Schedule
 	- Reliability program
+## Airports  
+
+**Types of Airports:**  
+1. **Commercial Service Airports**: Handle passenger and cargo traffic.  
+2. **Cargo Service Airports**: Focus on scheduled freight transport.  
+3. **General Aviation Airports:** Handle private or non-commercial flights.  
+4. **Reliever Airports:** Reduce congestion at major hubs.  
+
+**Towered Airports:**  
+- Controlled by Air Traffic Control (ATC).  
+- Pilots must maintain two-way communication.  
+
+**Non-Towered Airports:**  
+- No ATC tower present.  
+- Pilots follow recommended procedures.  
+
+**Runway Designator**
 ## Flight Rules
 Detailed in ICAO Annex 2 Chapter 5
 
@@ -482,8 +499,8 @@ Non-parallel new runway options were eliminated due to the following:
 **Formation**
 1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
 2. The hot exhaust mixes with cold ambient air, causing rapid cooling and condensation
-3. Water droplets freeze into ice crystals, forming visible contrails behind the aircraft
-4. Depending on atmospheric conditions, contrails may persist and spread or quickly dissipate
+3. Water droplets freeze into ice crystals in the cooler upper wake region, forming visible contrails behind the aircraft
+4. Depending on atmospheric conditions, contrails may persist and spread, evolving into contrail cirrus, or quickly dissipate
 **Factors affecting contrail climate impact**
 - Time of day (angle of incoming solar radiation)
 - Cloud properties (optical thickness, surrounding atmosphere)
