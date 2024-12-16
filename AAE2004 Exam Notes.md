@@ -172,6 +172,8 @@ Divided into:
 19. Safety Management
 ### IATA
 A trade association promoting cooperation among airlines
+**Compared to ICAO**
+- IATA focuses on the business/commercial aspects of aviation
 #### **Safety**
 - IATA put in place the IATA Operational Safety Audit, a global standard for airline safety audits
 - Passing the IOSA is required to retain IATA membership
@@ -196,6 +198,12 @@ IATA works closely with World Health Organization (WHO), the global authority on
 	- Facilitation and Services
 	- Safety and Technical
 	- Security
+### Other international associations
+**Air Transport Action Group**
+Non-profit organization which represents all sectors of the air transport industry
+**Civil Air Navigation Services Organization**
+Represents interests of air navigation service providers
+Supports improvement of global ANS
 ## ATC
 Ensures safe, convenient and efficient movement of aircraft between airports
 ICAO airspace classifications:

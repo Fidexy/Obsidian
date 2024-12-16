@@ -44,8 +44,7 @@ Calculation of unit of transportation.
 - Read the case scenario carefully.
 - Make sure that you use corrected units to measure.
 - You can disregard the weight changes of fuel when measuring UoT.
-- If you are not so sure whether your answer is correct, it is always recommended you
-- indicate the correct formula before you stepping into the calculation. Even if your answer is wrong, you may gain few marks with the right formula.
+- If you are not so sure whether your answer is correct, it is always recommended you indicate the correct formula before you stepping into the calculation. Even if your answer is wrong, you may gain few marks with the right formula.
 
 ## Q4. CAAS, ICAO & ICATA (20 marks)
 **Lvl 1-2 difficulty**
