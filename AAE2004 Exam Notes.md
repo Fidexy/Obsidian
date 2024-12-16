@@ -174,17 +174,17 @@ Divided into:
 A trade association promoting cooperation among airlines
 **Compared to ICAO**
 - IATA focuses on the business/commercial aspects of aviation
-#### **Safety**
+#### Safety
 - IATA put in place the IATA Operational Safety Audit, a global standard for airline safety audits
 - Passing the IOSA is required to retain IATA membership
 - **Safety =/= Airworthiness**
-#### **Security**
+#### Security
 IATA works together with ICAO to harmonise security measures
-#### **Health and Safety**
+#### Health and Safety
 IATA works closely with World Health Organization (WHO), the global authority on public health, on a range of issues including communicable diseases to help the aviation industry
-#### **Environment**
-#### **Simplifying the business**
-#### **IATA code**
+#### Environment
+#### Simplifying the business
+#### IATA code
 - Airports are designated with a three-letter code
 - Airlines are designated with a two-letter code
 - The airline designator forms the first 2 characters of the flight number
