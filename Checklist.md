@@ -18,7 +18,7 @@
 - [ ] Choice of alternative airports under emergency.
 - [ ] Why do we need to conduct aircraft investigation and its implications to future aviation safety?
 ## Q2. Radar and ADS-B
-- [ ] Understanding the functions and operational limits of radar systems and ADS-B
+- [x] Understanding the functions and operational limits of radar systems and ADS-B ✅ 2024-12-16
 ## Q3. Unit of transportation
 Calculation of unit of transportation.
 ## Q4. CAAS, ICAO & IATA

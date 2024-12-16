@@ -254,12 +254,14 @@ To achieve desired separation
 	- NAVAIDs provide pilotage information and assist with landings
 4. Surveillance
 	- Automatic Dependent Surveillance-Broadcast (ADS-B) continuously broadcasts flight data
+	- Aircraft position is determined by a GNSS receiver
 	- More frequent updates compared to ground-based radar (1s compared to 5-12s)
 	- Always on, no operator intervention required
 	- Real-time display of air traffic improves situational awareness
 	- Location, airspeed, altitude and velocity is acquired via GPS and broadcasted to ground stations
 	- ATC relays the data to other aircraft
 	- With ADS-B In, aircraft can receive direct communication with another aircraft, and acquire information on weather and traffic
+	- Lower chance of overlapping signals from aircraft at close proximity
 5. Automation
 	- Traffic Flow Management System
 		- Can view all traffic data
@@ -303,6 +305,19 @@ To achieve desired separation
 - Pilots get access to more aeronautical, traffic and weather information
 - Shorter, more direct flights
 - Less fuel consumption, lower emissions
+### ADS-B vs Radar
+| Feature                | Radar                                 | ADS-B                                |
+| ---------------------- | ------------------------------------- | ------------------------------------ |
+| **Technology**         | Uses radio waves to detect aircraft.  | Uses GPS for precise tracking.       |
+| **Data Provided**      | Position, altitude (SSR), speed.      | Position, altitude, velocity, ID.    |
+| **Range**              | Limited by line-of-sight and terrain. | Global (with satellite ADS-B).       |
+| **Accuracy**           | Moderate to high (SSR).               | High (GPS-based).                    |
+| **Infrastructure**     | Expensive radar stations required.    | Ground stations or satellites.       |
+| **Aircraft Equipment** | Transponder required for SSR.         | ADS-B Out/In avionics required.      |
+| **Refresh Rate**       | 5-12 seconds                          | Every second                         |
+| **Cost**               | High installation and maintenance.    | Lower infrastructure costs overall.  |
+| **Coverage**           | Limited in remote or oceanic areas.   | Excellent in remote/oceanic regions. |
+
 ### Airspace Technology Demonstration
 **ATD-1**
 - Time-Based Flow Management
