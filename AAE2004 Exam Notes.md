@@ -408,3 +408,51 @@ Non-parallel new runway options were eliminated due to the following:
 	Consists of processes and activities to determine whether the SMS is operating
 - Safety promotion
 	Encourages a positive safety culture
+### Communication in aviation
+**Confirmation bias**
+The tendency to look for what confirms our beliefs and ignore what contradicts our beliefs
+**Cockpit authority gradient**
+Determined by assertiveness of pilots
+- Authoritarian (Too steep)
+	- Captain cannot take criticisms from colleagues
+	- First Officer becomes too timid to voice opinions
+- Laissez-Faire (Flat)
+	- Most dangerous
+	- Nobody/both pilots  making decisions
+	- Cannot compromise/both laid back
+- Synergistic (Ideal)
+	- Determined Captain + Assertive First Officer
+	- Respects each other’s opinions
+	- First Officer grows by learning from Captain
+	- Captain gets best solutions from First Officer
+	- Captain can avoid mistakes given assertive corrections from First Officer
+
+### Safety Culture
+Represents attitudes of employees about an organization’s approach to safety and risk. Consists of 5 subcultures
+**Flexible culture**
+Flexible workers are given equal access to advancement, status, integration into business and assignment quality
+**Reporting culture**
+Cultivating an atmosphere where people can confidently report safety concerns
+**Informed culture**
+Those who manage and operate the system have current knowledge about the human, technical, organisational and environmental factors that determine the safety of the system as a whole
+**Learning culture**
+An environment that demonstrates and encourages individual and organizational learning
+**Just culture**
+A system of shared accountability in which organizations are accountable for systems they have designed, and for responding to employee behavior in a fair manner
+Employees are accountable for the quality of their choices and for reporting errors
+### Safety culture framework
+**Psychological aspects**
+The safety climate of the organization
+**Behavioral aspects**
+What people do
+**Situational aspects**
+What the organization has
+## Cockpit layout
+#### Giving alerts
+- The brain responds quicker to audio stimulus compared to visual stimulus
+- Colors are used in visual stimuli to represent severity
+#### Displaying information
+**Analogue Displays**
+- Best suited for showing information with changing nature
+**Digital Displays**
+- Best suited for showing exact numbers
