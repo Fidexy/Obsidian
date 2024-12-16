@@ -276,6 +276,23 @@ To achieve desired separation
 		- Allows ATM-related information sharing
 	- NextGen Weather Processor
 		- Combines data from various sources to identify safety hazards to reduce weather-related air traffic delays
+7. Multiple Runway Operations, Separation Management
+	- MRO
+		- Limited by collision avoidance and wake turbulance
+		- Runway capacity is limited by separation standards
+		- MRO advancements improve access to parallel runways
+		- FAA has redefined separation standards, enabling increased runway capacity
+8. Low-visibility operations
+	- Enhanced Flight Vision System (EFVS)
+		- A HUD display that presents useful information
+		- Provides a clear real-time virtual view of the outside environment with synthetic vision guidance system
+		- Allows prominent topographical objects to be clearly defined 
+		- Enables taxiing at airports in low-vis conditions
+	- Ground-Based Augmentation System (GBAS)
+		- Provides corrections and monitors integrity of GNSS
+		- Provides navigation and precision approach service when near airports
+		- Differential correction messages are broadcasted from a ground-based transmitter
+9. NextGen SMS
 **Justification**
 - Delays and congestion are costly
 - Number of flights is expected to increase in the future
