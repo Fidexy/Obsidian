@@ -22,6 +22,16 @@ The AOC shall contain at least the following:
 - The type(s) of aircraft authorised for use 
 - Authorised areas of operation or routes
 
+**AOC Requirements**
+- Sufficient personnel
+- Airworthy aircraft
+- Acceptable training systems
+- Quality system to ensure regulatory compliance
+- Carriers liability insurance
+- Sufficient finances
+- Sufficient ground infrastructure to support operations
+- Held be a legal person in the country of application
+
 **AOC Application process**
 1. Pre-application 
 2. Formal application 
@@ -268,8 +278,9 @@ To achieve desired separation
 		- Regulates air traffic flow
 		- Provides arrival management
 		- Maximises airport efficiency
-	- Advanced Technologies and Oceanic Procedures
+	- Advanced Technologies and Oceanic Procedures (ATOP)
 		- An advanced mixed mode air traffic control system to replace existing oceanic air traffic control systems
+		- Integrates flight and radar data processing
 		- Can increase capacity and improve efficiency
 		- Improve automatic navigation services
 		- Increased routing flexibility and radar coverage
