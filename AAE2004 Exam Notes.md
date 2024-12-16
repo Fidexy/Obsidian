@@ -292,6 +292,7 @@ To achieve desired separation
 - Controller Managed Spacing
 - Flight Deck Interval Management
 **ATD-2**
+Improves the efficiency of airport surface operations through time-base metering and improved information sharing of flight operations
 -  Integrated Arrival/Departure/Surface technology
 	- Current-day inefficient departure sequences causes taxi inefficacy
 	- Increases predictability, efficiency and throughput
@@ -299,7 +300,11 @@ To achieve desired separation
 - Time-Based Flow Management
 - Traffic Flow Management System
 - Terminal Flight Data Manager
+- Reduces departure delays 
+- Enables aircraft to wait out delays at gate instead of on tarmac
+- Improve
 **ATD-3**
+Enables dynamic flight plan routing based on weather or airspace constraints
 - Manages traffic safely and efficiently during adverse weather
 - Air/Ground Integration
 	- Reduce delays by proposing more efficient reroutes through the airspace
@@ -334,11 +339,24 @@ The principle that airspace should not be designated purely as civil or military
 - Restricted areas may not be designated over the high seas or airspace of undetermined soverignty
 - Restricted areas should be designed to be as small as possible
 - Should only be activated when required
+**Collaborative decision making (CDM)**
+- Involves all stakeholers:
+	- Airspace management unit
+	- Civil/military service provider
+	- Airports
+	- Airlines/military operators
+	- The State
+	- Flow management unit
+	- ACC flow management
+- Airspace is allocated in real time based on operational demands
+- CDM allows for proactive conflict resolution
 **Benefits**
 - Reduces track miles, optimizes flight levels
 	Decreases fuel burn
 - Increases airspace capacity
 	Decreases ATC/cockpit workload
+**Challenges**
+- 
 ## HKIA Third Runway
 Runways were classified into 3 groups in terms of:
 - Operational safety
