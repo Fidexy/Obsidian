@@ -314,6 +314,31 @@ To achieve desired separation
 - Dynamic Routes for Arrivals in Weather
 	- Dynamically reroutes impact flights and balances arrival demand
 
+## Flexible use of airspace (FUA)
+The principle that airspace should not be designated purely as civil or military
+**Process to establish FUA**
+- National civil/military coordination body
+- National airspace planning process
+- Agreement letters
+- Process for publication
+- Review and update process
+- System that allows predictive and timely access to restricted airspace
+**Airspace Management guidelines (ASM)**
+- Available airspace should be managed in a flexible manner
+- Airspace management process should incorporate dynamic flight paths
+- Airspace use should be coordinated and monitored
+- Reservation should be planned in advance
+- System needs to accommodate unplanned requirements on short notice
+- Must be aware that complex operations may limit flexibility
+**Airspace design considerations**
+- Restricted areas may not be designated over the high seas or airspace of undetermined soverignty
+- Restricted areas should be designed to be as small as possible
+- Should only be activated when required
+**Benefits**
+- Reduces track miles, optimizes flight levels
+	Decreases fuel burn
+- Increases airspace capacity
+	Decreases ATC/cockpit workload
 ## HKIA Third Runway
 Runways were classified into 3 groups in terms of:
 - Operational safety
@@ -374,13 +399,27 @@ Non-parallel new runway options were eliminated due to the following:
 		- Maintenance of related SARPs
 		- CO2 Estimating and Reporting Tool
 		- Develop recommendations related to emission management
-
-### Contrail Formation
+**Sustainable Aviation Fuels (SAF)**
+- More expensive than fossil jet fuel, economies of scale might reduce costs
+- Compatible with existing fleet
+**Advanced technology and design**
+- Engine technology focuses on reducing fuel burn, but higher efficiency can lead to increased NOx emissions
+- Regulatory NOx and non-volatile Particulate Matter standards guide designs to address noise, air quality and climate change
+- New nvPM standards aim to reduce particulate emissions
+**Sustainable ATC**
+- Dynamic airspace, route changing and advanced separation can retain efficiency while reducing fuel burn
+### Contrails
+**Formation**
 1. Aircraft engines emit hot exhaust gases containing water vapor and particulates
 2. The hot exhaust mixes with cold ambient air, causing rapid cooling and condensation
 3. Water droplets freeze into ice crystals, forming visible contrails behind the aircraft
 4. Depending on atmospheric conditions, contrails may persist and spread or quickly dissipate
-### Contrail Mitigation
+**Factors affecting contrail climate impact**
+- Time of day (angle of incoming solar radiation)
+- Cloud properties (optical thickness, surrounding atmosphere)
+- Location (over land/sea)
+- Duration
+**Mitigation**
 - Avoiding contrail formation through flight path adjustments
 	- Tradeoff: higher fuel consumption, additional CO2 emissions
 	- Short-term benefits of reduced contrail impact and long-term consequences of higher CO2 emissions have to be balanced
