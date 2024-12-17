@@ -582,12 +582,13 @@ The safety climate of the organization
 What people do
 **Situational aspects**
 What the organization has
-## Cockpit layout
-#### Giving alerts
-- The brain responds quicker to audio stimulus compared to visual stimulus
-- Colors are used in visual stimuli to represent severity
-#### Displaying information
-**Analogue Displays**
-- Best suited for showing information with changing nature
-**Digital Displays**
-- Best suited for showing exact numbers
+### Safety Programme
+- An integrated set of regulations and activities aimed at improving safety
+- Includes
+	- Safety regulation
+	- Safety oversight
+	- Accident investigation
+	- Reporting systems
+	- Safety data analysis
+	- Safety assurance
+	- Safety promosion
