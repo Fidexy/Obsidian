@@ -592,3 +592,15 @@ What the organization has
 	Consists of processes and activities to determine whether the SMS is operating
 - Safety promotion
 	Encourages a positive safety culture
+### Safety Risk Management for SPO
+- **Hazard identification**
+Identify risks introduced by reducing cockpit crew
+- Increased workload
+- Higher cognitive demand
+- Limited redundancy
+- Higher risk associated with human error, fatigue and incapacitation
+- **Safety risk assessment and mitigation**
+Develop mitigation strategies for SPO-specific risks
+- Enhanced automation to assist in navigation, communication and decision-making
+- Ground-based team to provide emergency assistance (remote operator support)
+- Advanced health and fatigue monitoring system
