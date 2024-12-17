@@ -527,6 +527,7 @@ Non-parallel new runway options were eliminated due to the following:
 	- Additional benefit: no CO2 emission
 	- Limits: Low energy density, high cost, new engines needed
 ### Impacts of high-speed ferries on CWDs
+## Safety in Aviation
 ### Communication in aviation
 **Confirmation bias**
 The tendency to look for what confirms our beliefs and ignore what contradicts our beliefs
@@ -565,7 +566,7 @@ The safety climate of the organization
 What people do
 **Situational aspects**
 What the organization has
-## Safety Programme
+### Safety Programme
 - An integrated set of regulations and activities aimed at improving safety
 - Includes
 	- Safety regulation
