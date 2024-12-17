@@ -16,7 +16,7 @@
 - [x] SMS considerations in single pilot flying in dual pilot cockpit (4 marks for 2 points) ✅ 2024-12-17
 - [x] SPO (2 marks for 1 point) ✅ 2024-12-17
 - [ ] Choice of alternative airports under emergency.
-- [ ] Why do we need to conduct aircraft investigation and its implications to future aviation safety?
+- [x] Why do we need to conduct aircraft investigation and its implications to future aviation safety? ✅ 2024-12-17
 ## Q2. Radar and ADS-B
 - [x] Understanding the functions and operational limits of radar systems and ADS-B ✅ 2024-12-16
 ## Q3. Unit of transportation

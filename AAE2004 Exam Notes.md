@@ -611,3 +611,7 @@ Develop mitigation strategies for SPO-specific risks
 - Enhanced automation to assist in navigation, communication and decision-making
 - Ground-based team to provide emergency assistance (remote operator support)
 - Advanced health and fatigue monitoring system
+### Accident Investigation
+- Identify causes
+- Safety recommendations
+- Safety improvements
