@@ -376,8 +376,8 @@ To achieve desired separation
 - Time-Based Flow Management
 - Controller Managed Spacing
 - Flight Deck Interval Management
-**ATD-2**
-Improves the efficiency of airport surface operations through time-base metering and improved information sharing of flight operations
+
+**ATD-2** Improves the efficiency of airport surface operations through time-base metering and improved information sharing of flight operations
 -  Integrated Arrival/Departure/Surface technology
 	- Current-day inefficient departure sequences causes taxi inefficacy
 	- Increases predictability, efficiency and throughput
@@ -388,8 +388,8 @@ Improves the efficiency of airport surface operations through time-base metering
 - Reduces departure delays 
 - Enables aircraft to wait out delays at gate instead of on tarmac
 - Improve
-**ATD-3**
-Enables dynamic flight plan routing based on weather or airspace constraints
+
+**ATD-3** Enables dynamic flight plan routing based on weather or airspace constraints
 - Manages traffic safely and efficiently during adverse weather
 - Air/Ground Integration
 	- Reduce delays by proposing more efficient reroutes through the airspace
