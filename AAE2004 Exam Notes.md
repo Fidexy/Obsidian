@@ -1,17 +1,20 @@
-## Key Performance Indicators in Air Transport  
-1. **Passenger Kilometre (PKM)**:  
-   - Measures passenger volume (Total Passengers × Distance).  
-   - Example: A flight with 130 passengers over 4767 km generates 619,710 PKM.  
-2. **Revenue Passenger Kilometre (RPK)**:  
-   - Measures sales volume of paying passengers (Revenue Passengers × Distance).  
-3. **Tonne Kilometre (TKM)**:  
-   - Volume of freight carried (Freight in tonnes × Distance).  
-4. **Available Seat Kilometre (ASK)**:  
-   - Passenger capacity (Seats available × Distance).  
-5. **Passenger Load Factor (PLF)**:  
-   - Efficiency metric: **PLF = PKM / ASK**.  
-6. **Yield**:  
-   - Revenue per kilometre (Passenger Yield = Revenue / RPK; Cargo Yield = Revenue / TKM).  
+## Units of transportation  
+1. **Total Passengers Carried (TPC)**
+2. **Total Distance Travelled (TDC)**
+3. **Passenger Kilometre (PKM)**:  
+   - Measures passenger volume (TPC x TDC).   
+4. **Revenue Passenger Kilometre (RPK)**:
+   - Total Revenue Passengers Carried (TRPC)
+   - Total number of km travelled by all paying passengers (TRPC × TDC).  
+1. **Tonnes Kilometre (TKM)**:  
+   - PKM for freight (TFC (tonnes) × TDC).  
+2. **Available Seat Kilometre (ASK)**:  
+   - Total Seats Avaliable (TSA)
+   - Passenger capacity (TSA × TDC).  
+1. **Passenger Load Factor (PLF)**:  
+   - Efficiency metric: (PKM / ASK).  
+2. **Yield**:  
+   - Revenue per kilometre (Passenger Revenue/RPK; Cargo Revenue/TKM).  
 ## Air operator certificate (AOC)
 A certificate authorising an operator to carry out specified commercial air transport operations
 
