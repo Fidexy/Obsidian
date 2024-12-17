@@ -527,22 +527,6 @@ Non-parallel new runway options were eliminated due to the following:
 	- Additional benefit: no CO2 emission
 	- Limits: Low energy density, high cost, new engines needed
 ### Impacts of high-speed ferries on CWDs
-## Safety Management System
-**Key Processes**
-- Hazard identification
-- Occurrence reporting
-- Risk management
-- Performance measurement
-- Quality assurance
-**ICAO SMS Framework**
-- Policy and objectives
-	Focusing on how each service provider creates the right environment for effective safety management
-- Risk management
-	Service providers should ensure that they are managing their safety risks
-- Safety assurance
-	Consists of processes and activities to determine whether the SMS is operating
-- Safety promotion
-	Encourages a positive safety culture
 ### Communication in aviation
 **Confirmation bias**
 The tendency to look for what confirms our beliefs and ignore what contradicts our beliefs
@@ -561,7 +545,6 @@ Determined by assertiveness of pilots
 	- First Officer grows by learning from Captain
 	- Captain gets best solutions from First Officer
 	- Captain can avoid mistakes given assertive corrections from First Officer
-
 ### Safety Culture
 Represents attitudes of employees about an organization’s approach to safety and risk. Consists of 5 subcultures
 **Flexible culture**
@@ -582,7 +565,7 @@ The safety climate of the organization
 What people do
 **Situational aspects**
 What the organization has
-### Safety Programme
+## Safety Programme
 - An integrated set of regulations and activities aimed at improving safety
 - Includes
 	- Safety regulation
@@ -591,4 +574,20 @@ What the organization has
 	- Reporting systems
 	- Safety data analysis
 	- Safety assurance
-	- Safety promosion
+	- Safety promotion
+### Safety Management System
+**Key Processes**
+- Hazard identification
+- Occurrence reporting
+- Risk management
+- Performance measurement
+- Quality assurance
+**ICAO SMS Framework**
+- Policy and objectives
+	Focusing on how each service provider creates the right environment for effective safety management
+- Risk management
+	Service providers should ensure that they are managing their safety risks
+- Safety assurance
+	Consists of processes and activities to determine whether the SMS is operating
+- Safety promotion
+	Encourages a positive safety culture
