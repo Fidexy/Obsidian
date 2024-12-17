@@ -35,5 +35,5 @@ Calculation of unit of transportation.
 ## Q6. Climate changes and green aviation
 - [x] Carbon emissions in transportation sector (2 marks) ✅ 2024-12-16
 - [x] Emission types and its social impact (4 marks) ✅ 2024-12-16
-- [ ] SAFS (4 marks, for two points)
+- [x] SAFS (4 marks, for two points) ✅ 2024-12-17
 - [x] Science of contrail formation and mitigation strategies (6 marks) ✅ 2024-12-16
