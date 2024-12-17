@@ -535,7 +535,7 @@ Non-parallel new runway options were eliminated due to the following:
 	- Limits: Low energy density, high cost, new engines needed
 ### Impacts of high-speed ferries on CWDs
 ## Safety in Aviation
-### Communication in aviation
+### Communication
 **Confirmation bias**
 The tendency to look for what confirms our beliefs and ignore what contradicts our beliefs
 **Cockpit authority gradient**
