@@ -299,14 +299,10 @@ To achieve desired separation
 	- NAVAIDs provide pilotage information and assist with landings
 4. Surveillance
 	- Automatic Dependent Surveillance-Broadcast (ADS-B) continuously broadcasts flight data
-	- Aircraft position is determined by a GNSS receiver
-	- More frequent updates compared to ground-based radar (1s compared to 5-12s)
-	- Always on, no operator intervention required
-	- Real-time display of air traffic improves situational awareness
-	- Location, airspeed, altitude and velocity is acquired via GPS and broadcasted to ground stations
-	- ATC relays the data to other aircraft
-	- With ADS-B In, aircraft can receive direct communication with another aircraft, and acquire information on weather and traffic
-	- Lower chance of overlapping signals from aircraft at close proximity
+	- Depends on satellite signal for positioning
+	- Always on, requires no operator intervention
+	- Enables real-time traffic display (improved situational awareness)
+	- 
 5. Automation
 	- Traffic Flow Management System
 		- Can view all traffic data
@@ -351,7 +347,11 @@ To achieve desired separation
 - Pilots get access to more aeronautical, traffic and weather information
 - Shorter, more direct flights
 - Less fuel consumption, lower emissions
-### ADS-B vs Radar
+### ADS-B
+**ADS-B Out**
+- 
+**ADS-B In**
+
 | Feature                | Radar                                 | ADS-B                                |
 | ---------------------- | ------------------------------------- | ------------------------------------ |
 | **Technology**         | Uses radio waves to detect aircraft.  | Uses GPS for precise tracking.       |

@@ -13,8 +13,8 @@
 # Part B
 ## Q1. The freedoms of the air & SMS
 - [x] How do the freedoms of the air apply? ✅ 2024-12-16
-- [ ] SMS considerations in single pilot flying in dual pilot cockpit (4 marks for 2 points)
-- [ ] SPO (2 marks for 1 point)
+- [x] SMS considerations in single pilot flying in dual pilot cockpit (4 marks for 2 points) ✅ 2024-12-17
+- [x] SPO (2 marks for 1 point) ✅ 2024-12-17
 - [ ] Choice of alternative airports under emergency.
 - [ ] Why do we need to conduct aircraft investigation and its implications to future aviation safety?
 ## Q2. Radar and ADS-B
