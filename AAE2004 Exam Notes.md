@@ -293,16 +293,16 @@ To achieve desired separation
 	- Saves time and reduces misunderstandings
 	- Preserves radio bandwidth 
 3. Performance-Based Navigation (PBN)
+	- Allows for more direct routes
 	- Creates precise 3D paths with satellite technology
 	- Dynamic routes can be provided to avoid weather and find efficient routes
-	- RNAV STAR Continuous Descent Approach to reduce noise and save fuel (eliminate level-offs)
+	- Continuous Climb/Descent Operations to reduce noise and save fuel (eliminate level-offs)
 	- NAVAIDs provide pilotage information and assist with landings
 4. Surveillance
 	- Automatic Dependent Surveillance-Broadcast (ADS-B) continuously broadcasts flight data
 	- Depends on satellite signal for positioning
 	- Always on, requires no operator intervention
 	- Enables real-time traffic display (improved situational awareness)
-	- 
 5. Automation
 	- Traffic Flow Management System
 		- Can view all traffic data
@@ -349,8 +349,15 @@ To achieve desired separation
 - Less fuel consumption, lower emissions
 ### ADS-B
 **ADS-B Out**
-- 
+- An aircraft’s location, airspeed, altitude and velocity is broadcasted to ground stations
+- ATC can obtain real-time information of the aircraft
+- Ground vehicles can be tracked
+- Increased coverage due to simpler ground infrastructure
 **ADS-B In**
+- Aircraft with ADS-B in receives data relayed from ATC
+- Can receive direct communication with nearby aircraft
+- Provides pilots with weather and traffic information
+- ADS-B Traffic Awareness System alerts pilots of impending air collision
 
 | Feature                | Radar                                 | ADS-B                                |
 | ---------------------- | ------------------------------------- | ------------------------------------ |
