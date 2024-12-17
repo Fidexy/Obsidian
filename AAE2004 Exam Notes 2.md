@@ -15,7 +15,8 @@
    - Efficiency metric: (PKM / ASK).  
 2. Yield:  
    - Revenue per kilometre (Passenger Revenue/RPK; Cargo Revenue/TKM).  
- Air operator certificate (AOC)
+
+Air operator certificate (AOC)
 A certificate authorising an operator to carry out specified commercial air transport operations
 
 The AOC shall contain at least the following: 
@@ -41,6 +42,7 @@ AOC Application process
 3. Document evaluation in both administrative and technical areas 
 4. Operational inspections 
 5. Decision on application and award of AOC and operations specifications (ops spec)
+ 
  Aircraft Maintenance
 - An aircraft shall not fly unless it has been maintained in accordance with an approved maintenance program.
 - Related documents:
@@ -50,6 +52,7 @@ AOC Application process
 - Key elements of a maintenance program:
 	- Maintenance Schedule
 	- Reliability program
+
  Airports  
 
 Types of Airports:  
@@ -69,11 +72,14 @@ Non-Towered Airports:
 Runway Designator
 - Number part: magnetic heading rounded to the nearest 10
 - Letter part (parallel runways only): L (left), R (right) or C (Center)
+
  Flight Number
 - Not to be confused with the tail number of the aircraft
 - Represents a scheduled flight route
 - Made of a combination of the carrier's 2-letter IATA code and up to 4 letters
- Flight Rules
+
+Flight Rules
+
 Detailed in ICAO Annex 2 Chapter 5
 
 | Category                       | Ceiling     | Visibility  |
@@ -89,10 +95,14 @@ Vertical separation minima
 - R (reduced) VSM increases the number of aircraft that can fly in an airspace
 - Aircraft must be RVSM-certified to operate in RVSM airspace.
 - Certification ensures that the aircraft's altimeters, autopilot, and altitude-keeping systems meet the required precision standards.
+
  Air sovereignty
+ 
 - Air sovereignty is the fundamental right of a sovereign state to regulate the use of its airspace, protect its territory and enforce its own aviation law - in extreme circumstance by the use of military fighter aircraft.
 - Airspace above the land and sea areas of a state generally forms part of the sovereign state area
+
  Freedoms of the air
+ 
 1. The right to fly over a foreign country without landing
 2. The right to refuel or carry out maintenance in a foreign country without embarking or disembarking passengers or cargo
 3. The right to fly from one's own country to another country
@@ -102,15 +112,20 @@ Vertical separation minima
 7. The right to fly between two foreign countries, while not offering flights to one’s own country
 8. The right to fly inside a foreign country, continuing to one's own country
 9. The right to fly inside a foreign country without continuing to one's own country
- Route Systems
+
+Route Systems
+
 Point to Point
+
 - Eliminate need for connections
 - Reduce travel time
 - Reduce risk of lost baggage
 - Independent
 - Worst best between major population centres
 - Highly inefficient when flights are mostly half empty
+
 Hub and Spoke
+
 - A hub is a central airport that flights are routed through
 - Spokes are the routes that planes take out of the hub airport
 - Requires significantly fewer routes to connect all destinations when compared with the point-point system
@@ -140,6 +155,7 @@ For a single hub and spoke system (H=1):
 
 $$C=(A-1)$$
  Civil Aviation Authorities
+ 
 - To oversee, regulate and ensure the required standards are met within their territory
 	 - Personnel licensing 
 		 provide regulation of the basic training and issuance of licenses and certificates
@@ -153,25 +169,36 @@ $$C=(A-1)$$
 		Manage traffic within the country's airspace
 	- Certification
 		ensure the design complies with the required standards; satisfy the quality assurance test; and issue different types of certificates to civil aviation equipment
+
  ICAO
+ 
 - Oversees and facilitates the standardisation, harmonisation and cooperation of civil aviation of signatory states and national aviation authority
 - Is not an enforcement authority
 - Countries pledge to adhere to ICAO standards and establish CAA regulations according to ICAO annexes
 - Develops Standards and Recommended Practices (SARPs)
 - SARPs are used y states to develop national civil aviation regulations
+
 Main Missions
+
 - Promote safe, efficient and orderly development of international civil aviation.
 - Set international standards necessary for the safety, security and efficiency of air transport.
 - Increasing of efficiency of international civil aviation.
 - Serve as the coordinator for international cooperation in all area of civil aviation.
- Structure
+
+Structure
+
 General Assembly
+
 - Sovereign body of ICAO
 - Meets every 3 years to review work and set future policies
+
 Council
+
 - Governing body
 - Composes of 36 states
+
 Secretariat
+
 Divided into:
 	- Bureau of Admin and Services
 	- Air Navigation Bureau
@@ -185,7 +212,9 @@ Divided into:
 		Procurement of equipment and services
 		Training services
 	- Legal Bureau
+
  Contributions
+ 
 - International Standard Atmosphere
 - Standardized machine-readable passports
 - Air navigation infrastructures
@@ -195,7 +224,9 @@ Divided into:
 - Assigning standard airport (4 letter) and airline (3 letter) codes
 - Maintain standards for aircraft registration
 	Identify country and aircraft model
+
  Annexes
+ 
 1. Personnel Licensing, Licensing of flight crews, air traffic controllers & aircraft maintenance personnel
 2. Rules of the Air
 3. Meteorological Service for International Air Navigation
@@ -215,8 +246,11 @@ Divided into:
 17. Security
 18. Safe Transport of Dangerous Goods by Air
 19. Safety Management
+
  IATA
+ 
 A trade association promoting cooperation among airlines
+
 Compared to ICAO
 - IATA focuses on the business/commercial aspects of aviation
  Safety
