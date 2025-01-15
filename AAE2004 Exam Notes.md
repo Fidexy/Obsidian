@@ -387,7 +387,6 @@ To achieve desired separation
 - Terminal Flight Data Manager
 - Reduces departure delays 
 - Enables aircraft to wait out delays at gate instead of on tarmac
-- Improve
 
 **ATD-3** Enables dynamic flight plan routing based on weather or airspace constraints
 - Manages traffic safely and efficiently during adverse weather
