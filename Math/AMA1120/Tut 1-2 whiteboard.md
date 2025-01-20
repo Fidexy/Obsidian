@@ -2,7 +2,8 @@ A. $$\begin{align}
 f(x)&=x^4-6x^2+8x+10 \\
 f’(x)&=4x^3-12+8 \\
 f’’(x)&=12x^2-12 \\
-f’(x)&=\frac{\beta-x}{x^{1-\beta}(1-x)^\beta} \\
+f’(x)&=\frac{\beta-x}{x^{1-\beta}(1-x)^\beta} \\ \\
+\\
 \ln f’(x)&=\ln(\beta-x)-(1-\beta)\ln x-\beta \ln(1-x) \\
 \frac{f’(x)}{f’’(x)}&=\frac{-1}{\beta-x}-\frac{1-\beta}{x}+\frac{\beta}{1-x} \\
 &=\frac{-x(1-x)-(1-\beta)(\beta-x)(1-x)+\beta(\beta-x)x)}{(\beta-x)x(1-x)}\times \frac{\beta-x}{x^{1-\beta}(1-x)^\beta}\\
