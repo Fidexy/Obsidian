@@ -17,8 +17,8 @@ f’(x)&=\frac{\frac{2}{3}-x}{x^{1/3}(1-x)^{2/3}} \\
 f’’(x)&=\frac{-\frac{2}{9}}{x^{4/3}(1-x)^{5/3}} \\
 m &= \lim_{ x \to \infty } \frac{x^{2/3}(1-x)^{1/3}}{x}=\lim_{ x \to \infty } \left( \frac{1}{x}-1 \right)^{1/3}=-1 \\ \\
 b&=\lim_{ x \to \infty } (f(x)+x)=\lim_{ x \to \infty } x^{2/3}(1-x)^{1/3}+x=\lim_{ x \to \infty } \left[ \left( \frac{1}{x}-1 \right)^{1/3}+1 \right] \\ 
-=\lim_{ u \to -1 } \frac{u+1}{u^3+1}=\lim_{ u \to -1 } \frac{1}{3u^3}=\frac{1}{3} \\
-\therefore y=-x+\frac{1}{3}
+&=\lim_{ u \to -1 } \frac{u+1}{u^3+1}=\lim_{ u \to -1 } \frac{1}{3u^3}=\frac{1}{3} \\
+&\therefore y=-x+\frac{1}{3}
 \\
 C. \\ 
 f(x)&=\frac{(x+1)^2}{x-1} \\
