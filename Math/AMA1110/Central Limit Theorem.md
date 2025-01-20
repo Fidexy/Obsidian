@@ -1,0 +1,1 @@
+$$(n\geq{30}), n>30, \bar{X}\sim N(\mu, \frac{\sigma^2}{n})$$
