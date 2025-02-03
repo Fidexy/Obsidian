@@ -9,7 +9,6 @@ $$\begin{align} \\
 f(x)&=x^\frac{2}{3}(1-x)^\frac{1}{3} \\
 f’(x)&=\frac{\frac{2}{3}-x}{x^{1/3}(1-x)^{2/3}} \text{ for } x \neq; f’(x) = 0 \iff x=\frac{2}{3} \\
 f’‘(x)&=\frac{-\frac{2}{4}}{x^{4/3}(1-x)^{5/x}}, \text{ for } x \neq 0 \text{ and } x \neq 1\\
-
 \end{align}
 $$
 
@@ -23,6 +22,5 @@ b&=\lim_{ x \to \infty } (f(x)+x)=\lim_{ x \to \infty } x\left[ \left( \frac{1}{
 &=\lim_{ x \to -1 } \frac{u+1}{u^3+1}=\lim_{ u \to -1 } \frac{1}{3u^2}=\frac{1}{3} \\
 \therefore g=-x+\frac{1}{3} \text{ is an inclined asymptotote}  \\
 \text{No vertical asymptotes}
-
 \end{align}
 $$
