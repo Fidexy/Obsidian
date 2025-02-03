@@ -20,7 +20,22 @@ $$\begin{align} \\
 m&=\lim_{ x \to \infty } \frac{f(x)}{x}=\lim_{ x \to \infty } \left( \frac{1}{x}-1 \right)^{1/3}=-1 \\
 b&=\lim_{ x \to \infty } (f(x)+x)=\lim_{ x \to \infty } x\left[ \left( \frac{1}{x}-1 \right)^{1/3}+1 \right] \\
 &=\lim_{ x \to -1 } \frac{u+1}{u^3+1}=\lim_{ u \to -1 } \frac{1}{3u^2}=\frac{1}{3} \\
-\therefore g=-x+\frac{1}{3} \text{ is an inclined asymptotote}  \\
-\text{No vertical asymptotes}
+&\therefore g=-x+\frac{1}{3} \text{ is an inclined asymptotote}  \\
+&\text{No vertical asymptotes}
 \end{align}
 $$
+$$\begin{align} \\
+x+y=(x-y)e^{-1/2(x-y)^2} \\
+\text{Consider change of variables:} \\
+&u=\frac{x-y}{\sqrt{ 2 }}=x\cos \frac{\pi}{4}-y\sin \frac{\pi}{4} \\
+&v=\frac{x+y}{\sqrt{ 2 }}=x\sin \frac{\pi}{4}+y\cos \frac{\pi}{4} \\
+&\begin{pmatrix}
+\cos \theta &-\sin \theta \\
+\sin \theta &\cos \theta
+\end{pmatrix} \begin{pmatrix}
+x \\
+y
+\end{pmatrix}=\begin{pmatrix} x\cos \theta-y\sin \theta \\
+x\sin \theta +y\cos \theta
+\end{pmatrix}
+\end{align}$$
