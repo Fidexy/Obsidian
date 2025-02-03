@@ -19,3 +19,12 @@ $$\begin{align}\\
 &\text{y-intercept: }f(0)=0 \\
 &\text{x-intercept: }f(x)=0 \iff x=0, 1
 \end{align}$$
+$$\begin{align} \\
+m&=\lim_{ x \to \infty } \frac{f(x)}{x}=\lim_{ x \to \infty } \left( \frac{1}{x}-1 \right)^{1/3}=-1 \\
+b&=\lim_{ x \to \infty } (f(x)+x)=\lim_{ x \to \infty } x\left[ \left( \frac{1}{x}-1 \right)^{1/3}+1 \right] \\
+&=\lim_{ x \to -1 } \frac{u+1}{u^3+1}=\lim_{ u \to -1 } \frac{1}{3u^2}=\frac{1}{3} \\
+\therefore g=-x+\frac{1}{3} \text{ is an inclined asymptotote}  \\
+\text{No vertical asymptotes}
+
+\end{align}
+$$
