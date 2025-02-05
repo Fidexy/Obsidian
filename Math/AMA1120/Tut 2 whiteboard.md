@@ -34,10 +34,10 @@ x+y=(x-y)e^{-1/2(x-y)^2} \\
 \sin \theta &\cos \theta
 \end{pmatrix} \begin{pmatrix}
 x \\
-y
+y \\
 \end{pmatrix}=\begin{pmatrix} x\cos \theta-y\sin \theta \\
-x\sin \theta +y\cos \theta
-\end{pmatrix}
+x\sin \theta +y\cos \theta \\
+\end{pmatrix} \\
 \end{align}$$
 **Givens Rotation**
 
