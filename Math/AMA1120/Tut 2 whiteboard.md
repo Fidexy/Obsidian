@@ -39,6 +39,7 @@ y \\
 x\sin \theta +y\cos \theta \\
 \end{pmatrix} \\
 \end{align}$$
+
 **Givens Rotation**
 
 I’m cookded
