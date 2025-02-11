@@ -9,6 +9,11 @@ $$\begin{align} \\
 f(x)&=x^\frac{2}{3}(1-x)^\frac{1}{3} \\
 f’(x)&=\frac{\frac{2}{3}-x}{x^{1/3}(1-x)^{2/3}} \text{ for } x \neq; f’(x) = 0 \iff x=\frac{2}{3} \\
 f’‘(x)&=\frac{-\frac{2}{4}}{x^{4/3}(1-x)^{5/x}}, \text{ for } x \neq 0 \text{ and } x \neq 1\\
+\text{with ln f(x):} \\
+f(x)&=x^{2/3}(1-x)^{1/3} \\
+\ln |f(x)|&=\frac{2}{3}\ln|x|+\frac{1}{3}\ln|1-x| \\
+\frac{f’(x)}{f(x)}&=\frac{\frac{2}{3}}{x}+\frac{-\frac{1}{3}}{1-x} \\
+&=\frac{\frac{2}{3}}{\text{somethingiforgot}}
 \end{align}
 $$
 
@@ -39,7 +44,12 @@ y \\
 x\sin \theta +y\cos \theta \\
 \end{pmatrix} \\
 \end{align}$$
-
-**Givens Rotation**
-
-I’m cookded
+# Global Optimization
+**Theoretical Guarantee**
+- $f$ is continuous on $[a, b]$
+	$\implies$ global maximum/minimum exists in $[a, b]$
+decision variable: $x$
+objective function: $f(x)$
+12. Let $x$ and $30-x$ be two positive numbers, $x \exists (0,30)$
+	Let $f(x)=x^2+2(30-x)^2$, which we minimize
+	$$
