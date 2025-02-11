@@ -47,13 +47,10 @@ x\sin \theta +y\cos \theta \\
 # Global Optimization
 **Theoretical Guarantee**
 - $f$ is continuous on $[a, b]$\
-	$\implies$ global maximum/minimum exists in $[a, b]$
-decision variable: $x$
-
-objective function: $f(x)$
-12. Let $x$ and $30-x$ be two positive numbers, $x \exists (0,30)$
-	
-	Let $f(x)=x^2+2(30-x)^2$, which we minimize
-
-	$f’(x)=2x-4(30-x)=0 \implies x=20$
+	$\implies$ global maximum/minimum exists in $[a, b]$\
+decision variable: $x$\
+objective function: $f(x)$\
+1. Let $x$ and $30-x$ be two positive numbers, $x \exists (0,30)$\
+	Let $f(x)=x^2+2(30-x)^2$, which we minimize\
+	$f’(x)=2x-4(30-x)=0 \implies x=20$\
 	
