@@ -46,8 +46,7 @@ x\sin \theta +y\cos \theta \\
 \end{align}$$
 # Global Optimization
 **Theoretical Guarantee**
-- $f$ is continuous on $[a, b]$
-- 
+- $f$ is continuous on $[a, b]$\
 	$\implies$ global maximum/minimum exists in $[a, b]$
 decision variable: $x$
 
