@@ -50,7 +50,14 @@ x\sin \theta +y\cos \theta \\
 	$\implies$ global maximum/minimum exists in $[a, b]$\
 decision variable: $x$\
 objective function: $f(x)$\
-1. Let $x$ and $30-x$ be two positive numbers, $x \exists (0,30)$\
-	Let $f(x)=x^2+2(30-x)^2$, which we minimize\
-	$f’(x)=2x-4(30-x)=0 \implies x=20$\
-	
+**Q12.**
+Let $x$ and $30-x$ be two positive numbers, $x \exists (0,30)$\
+Let $f(x)=x^2+2(30-x)^2$, which we minimize\
+$f’(x)=2x-4(30-x)=0 \implies x=20$\
+Q12e\
+$$\begin{align}\\
+T(x)&=x+\frac{5}{4}\sqrt{ 20^2+(x-30)^2 } \\
+T’(x)&=1+\frac{5}{4}\frac{x-30}{\sqrt{ 20^2+(x-30)^2 }}=0 \\
+&\therefore \frac{\sqrt{ 20^2+(x-30)^2 }}{5}=\frac{30-x}{4}=\frac{20}{3} \\
+&\implies x=\frac{10}{3}
+\end{align}$$
