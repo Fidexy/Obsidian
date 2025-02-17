@@ -10,7 +10,7 @@ Let a and b be two real numbers such that a>b>0. Prove $e^{a^2}-e^{b^2}>2(ab-b^2
 Let $f(x)=e^{x^2}$, which is continuous on [b, a] and differentiable in (b, a)
 $f’(x)=2xe^{x^2}$. By MVT. $\exists$
 ### 22/23 Sem 2
-Show that $\sqrt{ 1+x }<1+\frac{1}{2}x\text{, if x>0}$
+Show that $\sqrt{ 1+x }<1+\frac{1}{2}x\text{, if x>0}$\
 $$\begin{align}\\
 &\text{Let }f(u)=\sqrt{ 1+u }\text{, which is continous on}[0,x]\text{ and differentiable on }(0, x)\text{, where} x>0 \\
 &f’(u)=\frac{1}{2\sqrt{ 1+u}} \forall u>0 \\
