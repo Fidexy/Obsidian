@@ -20,3 +20,10 @@ $$\begin{align} \\
 &\int \frac{1}{1+x^2}dx=\arctan x+C
 \end{align}
 $$
+Misc:
+$$\begin{align} \\
+a\cos \theta=\sqrt{ a^2-x^2 } x=a\sin \theta, \theta \in [\frac{-\pi}{2}, \frac{\pi}{2}] \\
+a\sec \theta=\sqrt{ x^2+a^2 } x=a\tan \theta, \theta \in [\frac{-\pi}{2}, \frac{\pi}{2}] \\
+a\tan \theta=\sqrt{ x^2-a^2 } x=a\sec \theta
+\end{align} \\
+$$
