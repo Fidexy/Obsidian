@@ -52,7 +52,20 @@ $$\begin{align}
 \sqrt{ 4x-x^2 }&=2\cos \theta \\
 dx&=2\cos \theta d\theta \\
 I&=\int\frac{2\cos \theta d\theta}{2\cos \theta}=\theta+C=\arcsin\frac{x-2}{2}+C
-\end{aligned}\\ \\
+\end{aligned}\\
+&\text{4a} \\
+&\int xe^x dx \\
+=&xe^x-\int e^xdx \\
+=&xe^x-e^x+C \\
+&\text{4c} \\
+&\int x^2e^{-x}dx \\
+=&-x^2e^{-x}-2xe^{-x}-2e^{-x}+c \\
+&\text{4d} \\
+&\int x \sin 3xdx \\
+=&-\frac{1}{3}x\cos 3x + \frac{1}{9} \sin 3x +C \\
+&\text{4e} \\
+&\int 2x \sec^2 3x dx \\
+=&\frac{2}{3} x \tan 3x -\frac{2}{9} \ln |\sec x|+C
 \end{align}$$
 # Whatever the fuck this is:
 $\int e^{3x}\cos 4xdx=\frac{3}{25}e^{3x}\cos 4x+\frac{4}{25}e^{3x}\sin 4x +C$
