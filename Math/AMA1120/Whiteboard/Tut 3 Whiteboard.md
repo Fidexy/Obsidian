@@ -68,5 +68,12 @@ I&=\int\frac{2\cos \theta d\theta}{2\cos \theta}=\theta+C=\arcsin\frac{x-2}{2}+C
 =&\frac{2}{3} x \tan 3x -\frac{2}{9} \ln |\sec x|+C
 \end{align}$$
 # Whatever the fuck this is:
-$\int e^{3x}\cos 4xdx=\frac{3}{25}e^{3x}\cos 4x+\frac{4}{25}e^{3x}\sin 4x +C$
-$\frac{1}{3-4i}=\frac{3}{25}+\frac{4}{25}i$
+$$
+\begin{align}
+\int e^{3x}\cos 4xdx&=\frac{3}{25}e^{3x}\cos 4x+\frac{4}{25}e^{3x}\sin 4x +C\\
+\int Re((A+Bi)e^{\alpha-i\beta})dx&=\int(Ae^{\alpha x}\cos \beta x+Be^{\alpha x}\sin \beta x)dx \\
+\mathrm{Re}((A+Bi) \int e^{(\alpha-i\beta)x}dx)&=\mathrm{Re} (\frac{A+Bi}{\alpha-i\beta}e^{(\alpha-i\beta)x})+C \\
+\mathrm{Re} (a+bi)&=a\\
+\frac{1}{3-4i}&=\frac{3}{25}+\frac{4}{25}i \\
+\end{align}
+$$
