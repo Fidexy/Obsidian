@@ -16,3 +16,9 @@ $$\begin{align} \\
 &=\frac{1}{16}(2\cos 4 \theta+8\cos 2 \theta+6)
 \end{align}
 $$
+# Weierstrauss’ Substitution
+$$\begin{align} \\
+t=\tan \frac{\theta}{2}, &\sin \theta=2\sin \frac{\theta}{2}\cos \frac{\theta}{2}=2\tan \frac{\theta}{2}\cos^2\frac{\theta}{2}=\frac{2t}{t^2+1} \\
+&\cos \theta=\cos^2\frac{\theta}{2}-\sin^2\frac{\theta}{2}=\cos^2\frac{\theta}{2}\left( 1-\tan^2\frac{\theta}{2} \right)=\frac{1-t^2}{1+t^2} \\
+&\tan \theta=\frac{2t}{1-t^2}, dt=\frac{1}{2}\sec^2 \frac{\theta}{2}d\theta \implies d\theta=\frac{2dt}{1+t^2}
+\end{align}$$

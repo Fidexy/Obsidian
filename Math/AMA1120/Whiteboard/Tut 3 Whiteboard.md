@@ -72,8 +72,11 @@ $$
 \begin{align}
 \int e^{3x}\cos 4xdx&=\frac{3}{25}e^{3x}\cos 4x+\frac{4}{25}e^{3x}\sin 4x +C\\
 \int Re((A+Bi)e^{\alpha-i\beta})dx&=\int(Ae^{\alpha x}\cos \beta x+Be^{\alpha x}\sin \beta x)dx \\
-\mathrm{Re}((A+Bi) \int e^{(\alpha-i\beta)x}dx)&=\mathrm{Re} (\frac{A+Bi}{\alpha-i\beta}e^{(\alpha-i\beta)x})+C \\
+\mathrm{Re}\left( (A+Bi) \int e^{(\alpha-i\beta)x}dx \right)&=\mathrm{Re} \left( \frac{A+Bi}{\alpha-i\beta}e^{(\alpha-i\beta)x} \right)+C \\
 \mathrm{Re} (a+bi)&=a\\
-\frac{1}{3-4i}&=\frac{3}{25}+\frac{4}{25}i \\
+\frac{1}{3-4i}&=\frac{3}{25}+\frac{4}{25}i \\ \\
+&\text{1. }\int \frac{dx}{x-a}=\ln|x-a|+C \\
+&\text{2. }\int \frac{(x-p)dx}{(x-p)^2+\xi^2}=\frac{1}{2}\ln((x-p)^2+\xi^2)+C \\
+ &\text{3. }\int \frac{dx}{(x-p)^2+\xi^2}=\frac{1}{\xi}\tan^{-1} \frac{x-p}{\xi}+C
 \end{align}
 $$
