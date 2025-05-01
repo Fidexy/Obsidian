@@ -1,0 +1,31 @@
+# Aviation Fuel Types
+- **AVTUR (Aviation Turbine Fuel or Jet fuel):** 
+	- Clear to straw-coloured, used in turbine or compression ignition engines, often jet engines.
+	- **Jet A-1:** Unleaded kerosene, widely used globally except in Russia.
+	- **Jet B:** Used for enhanced cold-weather performance (-60℃ freezing point), but has a low flash point making it potentially dangerous.
+	- **GOST standards:** Mainly used in Russia.
+	- **RP-3:** A Chinese standard similar to Jet A-1.
+- **AVGAS (Aviation Gasoline or Aviation Spirit):** 
+	- Used in aircraft with internal combustion engines.
+	- Still contains **tetraethyllead (TEL)** to prevent engine knocking, unlike modern motor vehicle gasoline.
+	- **Engine knocking** is caused by combustion not resulting from flame propagation and can damage the engine. TEL was widely used since the 1920s but is now banned for most on-road use due to environmental concerns.
+	- AVGAS is classified by TEL amount: AVGAS 80/87 (low compression), AVGAS 100/130, and **AVGAS 100LL (low lead, most widely used)**.
+	- Dyes are added to distinguish types of AVGAS.
+- **Biofuels (Sustainable Aviation Fuel or SAF):** 
+	- Made from biomass, requires few or no modifications, yields lower emissions, but is expensive.
+- **Compressed natural gas (CNG)**.
+- **Liquid hydrogen**.
+# Fuel System Components
+- **Fuel Tanks:** 
+	- Stores and supplies fuel
+	- Major parts include the filler cap, vents (to maintain pressure), and overflow drain (for expansion).
+	- **Integral tanks (wet wing):** Compartments sealed inside wings, use existing structure, reduce weight, common in large aircraft.
+	- **External wing tanks (drop tanks):** Mounted externally, can be at the wing tip (tip tanks, which can improve aerodynamics) or under the wing. They can be expendable and jettisonable.
+	- **Collector tanks:** Used in aircraft with long wings to prevent fuel starving due to sloshing. They hold fuel before it goes to the engines and remain full to suppress flow fluctuations.
+- **Carburetor:** 
+	- Used by gasoline internal combustion engines to control the air and fuel mix. 
+	- High airspeed causes low pressure, injecting fuel. 
+	- Used in piston-engine aircraft
+- **Fuel Primer:** 
+	- Draws fuel directly from tanks to the combustion chamber, used during cold weather when engines are hard to start. 
+	- May be used in gravity-feed and fuel pump systems, but not fuel-injected engines.
