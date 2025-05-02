@@ -29,3 +29,26 @@
 - **Fuel Primer:** 
 	- Draws fuel directly from tanks to the combustion chamber, used during cold weather when engines are hard to start. 
 	- May be used in gravity-feed and fuel pump systems, but not fuel-injected engines.
+- **Fuel Pumps:**
+	- **Fuel Transfer Pumps:** 
+		- Moves fuel between tanks (main wing/fuselage to collector tanks) to satisfy engine feed requirements. 
+		- Automatically activated by fuel levels.
+		- Used to adjust aircraft centre of gravity (CG).
+	- **Fuel Booster Pumps (Engine Feed Pumps):** 
+		- Boosts fuel pressure to the engine. 
+		- Often electric motor-driven in large aircraft, or hydraulically driven/ejectors. 
+		- Operates at pressure higher than vapour pressure to avoid cavitation or flame-out.
+	- **High-pressure (HP) pumps:** 
+		- Driven by the engine accessory gearbox
+		- Supplies fuel to the engine fuel control systems.
+- **Fuel Valves:**
+	- Guides fuel flow
+	- **Shut-off valves** stops fuel flow
+	- **Tank selector valves** selects the tank to draw fuel from
+	- **Fuel dump valves** jettison excess view
+	- **Fuel vent valve** vents air during refuelling
+	- **Check valves** restricts fuel flow to one direction
+- **Fuel Vents**
+	- Allows air to enter the tank as fuel is pumped out
+	- Prevents vacuum formation in the tank
+- 
