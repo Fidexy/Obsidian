@@ -78,3 +78,28 @@
 		- Transistors
 			Convert AC to DC
 # Primary Power Distribution
+- Output from generator is sent to busbars before distribution to the entire system
+- Each power source supplies one or more specific buses
+- The primary power distribution system coordinates the aircraft electrical power input
+- Buses are interconnected with circuit protection devices
+- Types of electrical distribution:
+	- Split-bus system
+		- Each AC generator powers one AC bus
+		- Two generators can never power the same bus simultaneously
+	- Parallel system
+		- All engine-driven generators connect together and power all AC loads
+		- Generator output current must be phase regulated
+		- Advantage: buses are already connected, defected generators only need to be isolated from the system
+	- Split-parallel system
+		- Employs both split-bus and the parallel-bus systems
+		- All four generators are operated in parallel during normal flight
+		- System is operated in split-bus mode in case of failure
+
+| Parallel bus                                                                                                             | Split bus                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| Provides continuous electrical supply                                                                                    | Loss of one generator and APU means a complete loss of power to loads connected to that given bus |
+| Prolongs generator lifespan since load is distributed                                                                    | Generators take larger loads                                                                      |
+| Readily absorbs large spike loads                                                                                        | Susceptible to spikes                                                                             |
+| Single faults can propagate through the complete system, needing expensive protection circuitry                          |                                                                                                   |
+| <span style="font-size: 15px;">Parallel operation does not meet the requirements for totally independent supplies</span> |                                                                                                   |
+| <span style="font-size: 15px;">Load shedding is required when more than 2 generating sources failed</span>               |                                                                                                   |
