@@ -15,6 +15,17 @@
 	- Made from biomass, requires few or no modifications, yields lower emissions, but is expensive.
 - **Compressed natural gas (CNG)**.
 - **Liquid hydrogen**.
+# Types of Fuel Tanks
+- **Integral tanks**
+	- Made by sealing off compartments inside sings
+	- Saves weight by using existing structures to contain fuel
+- **External wing tanks**
+	- Mounted on wing tips or under the wing
+	- Can be dropped
+- **Collector tanks**
+	- Receive sfuel be fore it goes to the engines
+	- Always remains full of fuel, which suppresses fluctuations in fuel flow caused by sloshing
+	- Used to prevent fuel starvation from sloshing in wing tanks
 # Fuel System Components
 - **Fuel Tanks:** 
 	- Stores and supplies fuel
@@ -51,4 +62,22 @@
 - **Fuel Vents**
 	- Allows air to enter the tank as fuel is pumped out
 	- Prevents vacuum formation in the tank
-- 
+# Fuel System Operation Modes
+- **Pressurization**
+	- Forces fuel at relatively low pressure to other tanks
+	- Uses engine bleed air or inert gas
+- **Engine Feed**
+	- Supplies fuel to engines
+- **Fuel Transfer**
+	- Moves fuel from main tank to collector tanks
+	- Used to adjust CG
+- **Refuel/Defuel**
+- **Venting**
+	- Needed in various modes at high altitude to prevent vaporisation
+- **Use fuel as heat sink**
+- **Fuel Dumping**
+	- Used in emergencies to reduce aircraft weight
+# Safety Systems
+- **Fuel Tank Inerting System**
+	- Replaces space above fuel with inert gas
+- **Fire fighting foam**
