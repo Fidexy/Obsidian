@@ -62,8 +62,17 @@
 **APU**
 ### Bleed air system users
 - Anti-icing system
+	- Wing Anti-Ice Valve allows air to pass through a heating duct (piccolo tube) to heat wing structure
+	- Engine fan casings are equipped with an engine anti-ice valve for anti-icing
+	- Overheating detection systems are installed in air conditioning, wing leading edges and engine nacelles
 - ECU
 - Heating/cooling
 - Pressurization
+	- Hydraulic system pressurization
+	- Fuel tank pressurization
 - Engine
+	- Engine start
+	- Thrust reversers
+		- To slow down aircraft and preserve brakes
 - APU
+- Pitot-static systems
