@@ -38,3 +38,28 @@
 - **Relationship Between Them**
     - Absolute altitude can differ from geometric due to terrain
     - Geopotential altitude relates to the potential energy considering gravity changes with altitude.
+# Atmospheric Wind
+- Caused by forces acting on the air:
+	- **Centrifugal force** due to the inertia of wind along curved path
+	- **Coriolis force** related to the rotation of the Earth
+	- **Turbulent drag** resistance to airflow of surface objects
+- For wind towards a low-pressure region:
+	- Directional convergence
+	- Lifting of air
+	- Bad weather
+- For wind leaving a high-pressure region:
+	- Directional divergence
+	- Sinking of air
+	- Good weather
+# Atmospheric Turbulence
+- Irregular motion of air from eddies and vertical currents
+- **Mechanical turbulence**
+	- Caused by friction from flows passing through irregular obstacles
+	- Often gusty
+- **Thermal turbulence**
+	- Caused by uneven heat transfer due to differing heat capacities of surface conditions
+	- Affected by the shielding of clouds
+- **Frontal turbulence**
+	- Caused by the lifting of warm air upon encountering a cold front
+- **Wind shear**
+	- A change in wind direction/speed over a horizontal/vertical distance
