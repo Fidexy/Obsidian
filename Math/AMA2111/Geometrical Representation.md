@@ -24,3 +24,5 @@ $$
 **Example**
 
 ## Complex Exponential Function
+Given $w=x+iy$, we defie 
+$$e^w+e^{x+iy}=e^xe^{iy}=e^x(\cos{y}+i\sin{y})$$
