@@ -4,6 +4,10 @@ Fact 2: If A is symmetric i.e. $A=A^T$, then eigenvectors corresponding to diffe
 
 Fact 3: Symmetric matrices must be diagonalizable
 
+$A^T=(QDQ^T)^T=(Q^T)^TD^TQ^T=QDQ^T=A$
+
+$(AB)^T=B^TA^T$
+
 $$
 \begin{align}
 &AP=PD\\
@@ -52,3 +56,37 @@ $$\begin{bmatrix}
 \therefore \vec{v_3}=\begin{bmatrix}-1\\-1\\1\end{bmatrix}\\
 \vec{w_3}=\frac{\vec{v_3}}{||\vec{v_3}||}=\begin{bmatrix}\frac{1}{\sqrt3}\\\frac{1}{\sqrt3}\\0\end{bmatrix}\\
 $$
+
+17.
+$$A=\begin{bmatrix}
+8-\lambda&-2&2\\
+-2&5-\lambda&4\\
+2&4&5-\lambda
+\end{bmatrix}\\
+8-\lambda-1\implies\lambda=9 \text{ (double)}\\
+-(\lambda-\alpha)(\lambda-\beta)(\lambda-\gamma)=-\lambda^3+(\alpha+\beta+\gamma)\lambda^2-(\alpha\beta+\beta\gamma+\gamma\alpha)\lambda+\alpha\beta\gamma$$
+# Assignment Q4
+$$\begin{bmatrix}
+4&1&1\\
+1&4&1\\
+1&1&4
+\end{bmatrix}\\
+4-\lambda=1\implies\lambda=3\\
+\lambda=6,3\text{ (double)}$$
+# Assignment Q5
+$$\begin{bmatrix}
+4&1&0\\
+1&4&0\\
+0&0&3
+\end{bmatrix}\\
+\lambda=3\\
+4-\lambda=$$
+# Assignment Q16
+For eigenvalue $\lambda$
+$$
+\begin{bmatrix}
+2-\lambda&1&1\\
+0&1-\lambda&0\\
+1&-1&2-\lambda
+\end{bmatrix}=-(\lambda-1)^2(\lambda-3)=0\\
+\implies\lambda=3,1 \text{ (double)}$$
