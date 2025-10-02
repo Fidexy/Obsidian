@@ -12,7 +12,7 @@ $$
 \text{(1) } &\vec{w_1^T}\vec{w_j}=0 \text{ when }i \pm j\\
 \text{(2) } &||\vec{w_i}||^2=1 \text{ for all } i\\
 &Q = (vec{w_1},\vec{w_2},\vec{w_3})\\
-&A = QPQ^T,\\
+&A = QDQ^T,\\
 &Q^TQ=I
 \end{align}
 $$
